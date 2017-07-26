@@ -45,3 +45,6 @@ d:\git
 
 ## git pull origin master
 ## git push origin master
+
+
+## git checkout <hash> ตัวอย่าง git checkout 65e3a4e9572c713831ea71dacbfcaee849c8fe06
